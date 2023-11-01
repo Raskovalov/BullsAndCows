@@ -1,0 +1,14 @@
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.AssemblyInfoInputs.cache
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.AssemblyInfo.cs
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.csproj.CoreCompileInputs.cache
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\bin\Debug\net6.0\BullsAndCows.exe
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\bin\Debug\net6.0\BullsAndCows.deps.json
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\bin\Debug\net6.0\BullsAndCows.runtimeconfig.json
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\bin\Debug\net6.0\BullsAndCows.dll
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\bin\Debug\net6.0\BullsAndCows.pdb
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.dll
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\refint\BullsAndCows.dll
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.pdb
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\BullsAndCows.genruntimeconfig.cache
+E:\Work\project\python\Подготовка к собесам\BullsAndCows\BullsAndCows\obj\Debug\net6.0\ref\BullsAndCows.dll
