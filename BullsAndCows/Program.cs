@@ -71,7 +71,7 @@ namespace BullsAndCows
 
                 if(ev == 1)
                 {
-                    Console.WriteLine($"Коров: {bullsCows[1]}, Быков: {bullsCows[0]}, Попытка: {x}, Число: {this.number}");
+                    Console.WriteLine($"Коров: {bullsCows[1]}, Быков: {bullsCows[0]}, Попытка: {x}");
                 }
 
                 x += 1;
@@ -82,6 +82,9 @@ namespace BullsAndCows
         {
             BullCows b = new BullCows();
             b.go();
+
+            Console.WriteLine("Победа!!");
+            Console.ReadLine();
         }
     }
 }

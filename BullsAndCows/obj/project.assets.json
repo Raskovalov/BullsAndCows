@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\project\\python\\Подготовка к собесам\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
+      "projectUniqueName": "E:\\Work\\project\\python\\GitHab\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
       "projectName": "BullsAndCows",
-      "projectPath": "E:\\Work\\project\\python\\Подготовка к собесам\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
+      "projectPath": "E:\\Work\\project\\python\\GitHab\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\project\\python\\Подготовка к собесам\\BullsAndCows\\BullsAndCows\\obj\\",
+      "outputPath": "E:\\Work\\project\\python\\GitHab\\BullsAndCows\\BullsAndCows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
